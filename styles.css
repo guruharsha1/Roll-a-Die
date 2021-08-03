@@ -1,0 +1,23 @@
+.type {
+
+   width:16rem;
+   height: 3rem;
+  font-family: 'Roboto', sans-serif;
+
+}
+.container{
+  text-align: center;
+}
+h1
+{
+  font-family: 'Lobster', cursive;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ font-size: 100px !important;
+}
+body{
+  background-color: #393E46 !important;
+}
+img{
+  padding-bottom: 20px;
+}
